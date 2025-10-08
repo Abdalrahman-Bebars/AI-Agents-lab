@@ -1,7 +1,7 @@
 # AIRA-Sec: AI-Powered DevSecOps Assistant
 
 <div align="center">
-  <img src="./AIRA-sec-logo.png" alt="AIRA-Sec Logo" width="150"/>
+  <img src="./AIRA-sec-logo.png" alt="AIRA-Sec Logo" width="600"/>
   <h3>Securing the future with AI</h3>
 </div>
 
